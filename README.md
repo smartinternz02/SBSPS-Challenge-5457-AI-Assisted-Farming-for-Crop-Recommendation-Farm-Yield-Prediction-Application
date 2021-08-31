@@ -28,7 +28,7 @@ Karthik T
 <h3>Deployed URL:</h3>
 <a href="https://chandraprabhu02.github.io/AI-assisted-farming---IBM-Hackathon/"> Website</a>
 <h3>Demo:</h3>
-Demonstration - Video Link
+<a href = "https://www.youtube.com/watch?v=QAHPvtoImO4">Demonstration - Video Link</a>
 <h3>Installation - Backend:</h3>
 <ul>
 <li>Install the Required Dependencies</li>
