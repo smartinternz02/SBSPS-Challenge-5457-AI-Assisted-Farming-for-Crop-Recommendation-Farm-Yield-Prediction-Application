@@ -36,6 +36,10 @@ Demonstration - Video Link
 </li>
 </ul>
 </ul>
+<h3>Run the Server:</h3>
+<ul>
+<li>node index.js</li>
+</ul>
 
 <h3>Installation - Frontend:</h3>
 <ul>
