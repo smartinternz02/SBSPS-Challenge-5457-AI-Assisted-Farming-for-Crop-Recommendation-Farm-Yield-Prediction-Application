@@ -1,6 +1,6 @@
 # AI-assisted-farming---IBM-Hackathon
-<h3>IBM Hack Challenge - 2021</h3>
 
+<h3>IBM Hack Challenge - 2021</h3>
 
 Team Name - Sairam Ninjas
 
@@ -17,31 +17,46 @@ Karthik T
 
 <h3>Demo:</h3>
 Demonstration - Video Link
-Installation - Backend:
-Create Python Virtual Env
-  python3 -m venv env
+<h3>Installation - Backend:</h3>
+<ul>
+<li>Install the Required Dependencies</li>
+<ul>
+<li>
+  <h4>npm i</h4>
+</li>
+</ul>
+</ul>
 
-Install the Required Dependencies
-  pip3 install -r requirements.txt
+<h3>Installation - Frontend:</h3>
+<ul>
+<li>Install the Required Dependencies</li>
+<ul>
+<li>
+  <h4>npm i</h4>
+</li>
+</ul>
+</ul>
 
-Activate the Environment
-  source evn/bin/activate
+<h3>Run the Project:</h3>
+<ul>
+<li>npm start</li>
+</ul>
 
-Create a config.py file with database_uri in app directory
-Run the App
-  python3 run.py
-Installation - Frontend:
-Install the Required Dependencies
-  npm i
-
-Run the Project:
-  npm start
-
-Features:
+<h2>Features:</h2>
+<ul>
+<li>
 Crop Recommendation
+</li>
+<li>
 Crop Yield Prediction
+</li>
+<li>
 Crop Price Prediction
+</li>
+<li>
 It is a easy-to-use single page web application
+</li>
+<li>
 It is very useful for farmers who don't have much experience.
-
-
+</li>
+</ul>
