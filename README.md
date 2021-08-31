@@ -75,4 +75,7 @@ It is a easy-to-use single page web application
 <li>
 It is very useful for farmers who don't have much experience.
 </li>
+<li>
+Our model has the accuracy of 95.4%
+</li>
 </ul>
