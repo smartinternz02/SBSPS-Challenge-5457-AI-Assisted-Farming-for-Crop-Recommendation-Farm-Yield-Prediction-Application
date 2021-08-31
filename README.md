@@ -10,10 +10,20 @@ Problem Title - AI-Assisted Farming for Crop Recommendation & Farm Yield Predict
 Prof. Adiline Macriga
 
 <h3>Team Members:</h3>
+<ol>
+<li>
 Raghubharathi S P
+</li>
+<li>
 Chandraprabhu C
+</li>
+<li>
 Sandeep R
+</li>
+<li>
 Karthik T
+</li>
+</ol>
 
 <h3>Demo:</h3>
 Demonstration - Video Link
