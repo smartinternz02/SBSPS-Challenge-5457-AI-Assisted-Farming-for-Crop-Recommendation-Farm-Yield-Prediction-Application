@@ -25,6 +25,8 @@ Karthik T
 </li>
 </ol>
 
+<h3>Deployed URL:</h3>
+<a href="https://chandraprabhu02.github.io/AI-assisted-farming---IBM-Hackathon/"> Website</a>
 <h3>Demo:</h3>
 Demonstration - Video Link
 <h3>Installation - Backend:</h3>
